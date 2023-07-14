@@ -3,7 +3,7 @@
 ## A fully beautiful card design to see your info in the website
 
 ## Watch the screenshots!
-![Uploading التقاط.PNG…]()
+![card](https://github.com/ahmed8mansour/transparent_card/assets/108304589/ea2982f4-fb4b-4fc5-addf-436c064fac38)
 
 
 ## the info : 
